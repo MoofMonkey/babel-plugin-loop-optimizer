@@ -4,7 +4,7 @@
 
 Also, that package aren't working with newest Babel (that have @babel namespace) right now.
 
-Optimizes `.forEach`, `.every`, `.find`, `.map`, `.filter` statements to `for` stements
+Optimizes `.forEach`, `.every`, `.map`, `.filter` statements to `for` stements
 
 ## Installation
 
